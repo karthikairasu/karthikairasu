@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐊𝐚𝐫𝐭𝐡𝐢𝐤𝐚𝐢𝐫𝐚𝐬𝐮 𝐊 👋
+# 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐊𝐚𝐫𝐭𝐡𝐢𝐤𝐚𝐢𝐫𝐚𝐬𝐮 👋
 ## Front-End Developer | React Enthusiast | UI/UX
 
 ![Header](https://github.com/karthikairasu/My_Projects/blob/master/assets/images/banner.png)
