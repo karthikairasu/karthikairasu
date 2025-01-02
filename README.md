@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/karthikairasu/karthikairasu/blob/main/Profile.jpg)
+![Header](https://github.com/karthikairasu/My_Projects/blob/master/assets/images/banner.png)
 
-# Hello folks!👋
+# Hello Folks!👋
 
 My name is Karthikairasu K. I am a Front End Developer.
 
