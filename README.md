@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/karthikairasu/KarthikairasuK/blob/master/Profile.jpg)
+![Header](https://github.com/karthikairasu/karthikairasu/blob/master/Profile.jpg)
 
 # Hello folks!👋
 
