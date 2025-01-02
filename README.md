@@ -12,13 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐊𝐚𝐫𝐭𝐡𝐢𝐤𝐚𝐢𝐫𝐚𝐬𝐮 𝐊 👋
+## Front-End Developer | React Enthusiast | Web Performance
+
 ![Header](https://github.com/karthikairasu/My_Projects/blob/master/assets/images/banner.png)
 
-# Hello Folks!👋
+<p>
+  I'm a passionate Front-End Developer with 6+ years of experience creating sleek, user-friendly, and responsive web applications. I specialize in React.js, JavaScript, and UI/UX design principles. I’m always focused on delivering optimized performance and writing clean, maintainable code. Let’s create something amazing together! 🚀
+</p>
 
-My name is Karthikairasu K. I am a Front End Developer.
-
-## 🔧 Langueages & Tools
+## 🛠️ Tech & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
@@ -34,17 +38,21 @@ My name is Karthikairasu K. I am a Front End Developer.
 </p>
 
 
-## &#x1f4c8; GitHub
+## &#x1f4c8; GitHub Stats
+<p>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikairasu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikairasu&theme=slateorange&langs_count=5" />
 </a>
+</p>
+<p>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthikairasu&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="Aashima's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthikairasu&&show_icons=true&theme=vue-dark" alt="Karthikairasu's GitHub Stats" />
 </a>
+</p>
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/karthikairasu-k-35a962126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikairasu" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11974062/karthikairasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karthikairasu" height="30" width="40" /></a>
 
 </p>
