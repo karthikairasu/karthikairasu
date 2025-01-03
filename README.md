@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐊𝐚𝐫𝐭𝐡𝐢𝐤𝐚𝐢𝐫𝐚𝐬𝐮 👋
-## Front-End Developer | React Enthusiast | UI/UX
+### Front-End Developer | UI/UX | React Enthusiast
 
 ![Header](https://github.com/karthikairasu/My_Projects/blob/master/assets/images/banner.png)
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   I'm a passionate Front-End Developer with 6+ years of experience creating sleek, user-friendly, and responsive web applications. I specialize in React.js, JavaScript, and UI/UX design principles. I’m always focused on delivering optimized performance and writing clean, maintainable code. Let’s create something amazing together! 🚀
 </p>
 
-## 🛠️ Tech & Tools
+<h3>🛠️ Tech & Tools </h3>
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
@@ -34,11 +34,13 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/raw/master/icons/babel/babel-original.svg" height="50px" alt="Babel" style="max-width: 100%;">
    <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original-wordmark.svg" height="50px" alt="Webpack" style="max-width: 100%;">
    <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px" alt="Node" style="max-width: 100%;">
-
+   <br/>
+   <br/>
+   <br/>
 </p>
 
 
-## &#x1f4c8; GitHub Stats
+<h3> &#x1f4c8; GitHub Stats </h3>
 <p>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikairasu&theme=slateorange&langs_count=5" />
@@ -50,9 +52,15 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## 🔗 &nbsp;**Connect with me**
+<h3> 🔗 &nbsp; Connect with me </h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/karthikairasu-k-35a962126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikairasu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11974062/karthikairasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karthikairasu" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/karthikairasu-k-35a962126/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikairasu" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/11974062/karthikairasu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karthikairasu" height="30" width="40" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github.com/karthikairasu/karthikairasu/blob/main/Animation-1735904792737.gif" alt="A funny GIF" width="200">
 </p>
